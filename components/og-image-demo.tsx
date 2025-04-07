@@ -15,7 +15,7 @@ export default function OGImageDemo() {
     <div className="max-w-3xl mx-auto p-6 bg-white rounded-lg shadow-lg">
       <div className="flex items-center gap-3 mb-4">
         <Image
-          src="/phlogo.png"
+          src="https://phyhuntogimagegen.vercel.app/phlogo.png"
           alt="Physics Hunters Logo"
           width={100}
           height={50}
@@ -49,7 +49,7 @@ export default function OGImageDemo() {
       <div className="mb-6">
         <h3 className="text-lg font-medium mb-2">Preview:</h3>
         <div className="border border-gray-200 rounded-lg overflow-hidden">
-          <img src="/phlogo.png" alt="OG Image Preview" className="w-full h-auto" />
+          <img src="https://phyhuntogimagegen.vercel.app/phlogo.png" alt="OG Image Preview" className="w-full h-auto" />
         </div>
       </div>
 
