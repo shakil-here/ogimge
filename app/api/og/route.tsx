@@ -14,8 +14,8 @@ export async function GET(req: NextRequest) {
     ).then((res) => res.arrayBuffer())
 
     // Load the new logo
-    const logoUrl =
-      "https://i.postimg.cc/9FPnqTqQ/rsz-physics-01.png"
+    const logoUrl ="/phlogo.png"
+
 
     return new ImageResponse(
       <div
