@@ -13,12 +13,14 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-8 gap-8 bg-gradient-to-br from-indigo-100 to-purple-100">
       <div className="flex items-center gap-3">
-        <Image
-          src="https://i.postimg.cc/9FPnqTqQ/rsz-physics-01.png"
+        <img
+          src="/phlogo.png"
+          width="200"
+          height="auto"
           alt="Physics Hunters Logo"
-          width={100}
-          height={50}
-          className="h-auto"
+          style={{
+            objectFit: "contain",
+          }}
         />
         <h1 className="text-3xl font-bold text-center">Bengali OG Image Generator</h1>
       </div>
