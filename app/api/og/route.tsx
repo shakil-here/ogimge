@@ -43,7 +43,7 @@ export async function GET(req: NextRequest) {
           }}
         >
           <img
-            src={logoUrl || "/placeholder.svg"}
+            src="/phlogo.png"
             width="200"
             height="auto"
             alt="Physics Hunters Logo"
