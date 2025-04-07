@@ -30,7 +30,7 @@ export default function Home() {
         <div className="border border-gray-300 rounded-lg overflow-hidden shadow-lg">
           <img
             id="previewImg"
-            src={ogImageUrl || "/placeholder.svg"}
+            src={ogImageUrl || "/phlogo.png"}
             alt="OG Image Preview"
             className="w-full h-auto"
           />
