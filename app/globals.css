@@ -9,7 +9,7 @@
   font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/notosansbengali/v20/Cn-SJsCGWQxOjaGwMQ6fIiMywrNJIky6nvd8.woff2) format("woff2");
-  unicode-range: U+0964-0965, U+0980-09FE, U+1CF7, U+1CFA, U+200C-200D, U+20B9, U+25CC;
+  
 }
 
 @font-face {
@@ -18,7 +18,6 @@
   font-weight: 700;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/notosansbengali/v20/Cn-TJsCGWQxOjaGwMQ6fIiMywrNJIky6nvd8.woff2) format("woff2");
-  unicode-range: U+0964-0965, U+0980-09FE, U+1CF7, U+1CFA, U+200C-200D, U+20B9, U+25CC;
 }
 
 :root {
@@ -38,7 +37,6 @@ body {
   font-weight: 400;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/notosansbengali/v20/Cn-SJsCGWQxOjaGwMQ6fIiMywrNJIky6nvd8.woff2) format("woff2");
-  unicode-range: U+0964-0965, U+0980-09FE, U+1CF7, U+1CFA, U+200C-200D, U+20B9, U+25CC;
 }
 
 body {
