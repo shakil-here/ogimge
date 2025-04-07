@@ -14,7 +14,7 @@ export async function GET(req: NextRequest) {
     ).then((res) => res.arrayBuffer())
 
     // Load the new logo
-    const logoUrl ="/phlogo.png"
+    const logoUrl ="https://phyhuntogimagegen.vercel.app/phlogo.png"
 
 
     return new ImageResponse(
