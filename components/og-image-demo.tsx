@@ -49,7 +49,7 @@ export default function OGImageDemo() {
       <div className="mb-6">
         <h3 className="text-lg font-medium mb-2">Preview:</h3>
         <div className="border border-gray-200 rounded-lg overflow-hidden">
-          <img src="/phlogo.png" alt="OG Image Preview" className="w-full h-auto" />
+          <img src="/phlogosvg.svg" alt="OG Image Preview" className="w-full h-auto" />
         </div>
       </div>
 
